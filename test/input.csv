@@ -1,0 +1,7 @@
+,Age,Employment Type,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad
+1,27,Government Sector,Yes,850000,3,0,No,No
+2,33,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+3,28,Private Sector/Self Employed,Yes,1750000,5,1,No,Yes
+4,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+5,34,Private Sector/Self Employed,Yes,1000000,6,0,Yes,Yes
+6,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
